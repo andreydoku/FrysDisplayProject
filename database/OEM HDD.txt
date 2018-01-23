@@ -1,0 +1,23 @@
+8972503|859733006571|3TB Ultrastar 7K (3.5")|HGST|Refurbished||$79.99|D|
+8982093|718037830056|2TB Enterprise (3.5")|Western Digital|||$181.99|R|
+9011687|763649089224|10TB Barracuda Pro (3.5")|Seagate|||$459.99|R|
+9011707|763649089248|10TB Ironwolf (3.5")|Seagate|||$369.99|R|
+9011717|763649089231|10TB Skyhawk (3.5")|Seagate|||$409.99|R|
+9011737|763649110270|2TB Firecuda (3.5")|Seagate|||$104.99|R|
+9011747|763649110263|1TB Firecuda (3.5")|Seagate|||$79.99|R|
+9011767|763649110225|3TB Barracuda (3.5")|Seagate|||$95.99|R|
+9011787|763649110218|2TB Barracuda (3.5")|Seagate|||$69.99|R|
+9088307|763649110232|500GB Barracuda (3.5")|Seagate|||$47.99|R|
+9088317||6TB Ironwolf (3.5")|Seagate|||$214.99|R|
+9088327|763649110560|4TB Ironwolf (3.5")|Seagate|||$149.99|R|
+9088337|763649110706|3TB Ironwolf (3.5")|Seagate|||$109.99|R|
+9088347|763649110690|2TB Ironwolf (3.5")|Seagate|||$84.99|R|
+9088357|763649110683|1TB Ironwolf (3.5")|Seagate|||$64.99|R|
+9088367|763649110812|6TB Skyhawk (3.5")|Seagate|||$199.99|R|
+9088377|763649110638|4TB Skyhawk (3.5")|Seagate|||$127.99|R|
+9088387|763649110676|3TB Skyhawk (3.5")|Seagate|||$99.99|R|
+9088397|763649110669|2TB Skyhawk (3.5")|Seagate|||$69.99|R|
+9088407|763649110652|1TB Skyhawk (3.5")|Seagate|||$54.99|R|
+9088417|763649110836|8TB Barracuda (3.5")|Seagate|||$339.99|R|
+9088427|763649110546|4TB Barracuda (3.5")|Seagate|||$124.99|R|
+9088437|763649110928|1TB Barcuda (3.5")|Seagate|||$49.99|R|
